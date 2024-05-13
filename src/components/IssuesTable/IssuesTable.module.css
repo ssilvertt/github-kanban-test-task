@@ -1,0 +1,13 @@
+.container__issues {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding-right: 1rem;
+	padding-left: 1rem;
+	padding-top: 1rem;
+	gap: 1rem;
+	background-color: #4a4a4a;
+	border-radius: 1rem;
+	margin-right: 1rem;
+	margin-left: 1rem;
+}
